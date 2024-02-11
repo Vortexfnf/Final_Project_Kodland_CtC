@@ -1,5 +1,3 @@
-![image_2024-02-11_165004705](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/df311e0a-9ede-4884-bf5e-771f0523aa9f)
-![image_2024-02-11_164907297](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/55ec3db4-50b1-45fe-a6ae-b632338714be)
 ## Este es el tipo de mi proyecto:
 > GlobalWarmigBot
 
@@ -61,5 +59,12 @@ de reconozimiento de imágenes, donde un comando (!HowCanIHelp) te dice que cosa
 hacer para ayudar prevenir el calentamiento global como apagar las luces en las
 habitaciones que no utilizamos, tirar menos comida a la basura, entre otros.
 Y el otro (!WhereDoIThrowThis) pueda reconozer botellas y diferentes cosas para que el usuario
-sepa dónde tiene que tirar las cosas, y también hace algunos comandos de la contaminación![image_2024-02-11_163454620](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/f2f741ce-b368-4c9f-a28c-391186f1a9e7)
+sepa dónde tiene que tirar las cosas, y también hace algunos comandos de la contaminación
+Water Bottle:
+![image_2024-02-11_163454620](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/f2f741ce-b368-4c9f-a28c-391186f1a9e7)
+Soda Can:
+![image_2024-02-11_165004705](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/df311e0a-9ede-4884-bf5e-771f0523aa9f)
+News Papers:
+![image_2024-02-11_164907297](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/55ec3db4-50b1-45fe-a6ae-b632338714be)
+
 
