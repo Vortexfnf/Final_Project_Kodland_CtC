@@ -76,4 +76,32 @@ sepa dónde tiene que tirar las cosas, y también hace algunos comandos de la co
 ![image_2024-02-11_164907297](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/55ec3db4-50b1-45fe-a6ae-b632338714be)
 
 
-## Ideas
+# !Ideas
+
+
+![image_2024-02-11_165502670](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/39776f6a-8499-46f5-ad49-564d916a8817)
+
+
+# !Bidon
+
+
+![image_2024-02-11_165753392](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/7960b513-ae7b-4882-822b-bef5448e5591)
+
+
+# !server_info
+
+![image_2024-02-11_170014318](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/290f65f3-9eb8-4a52-b9e1-cc819f6460ed)
+
+
+# !challenge
+
+
+![image_2024-02-11_170144441](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/c06b5eb1-81ec-4e2e-a9b0-c77093d33706)
+
+
+# !contamination & !contaminacion
+
+In English and Spanish
+
+![image_2024-02-11_170654092](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/c44156bc-5bdd-465a-9778-96fbf774419d)
+
