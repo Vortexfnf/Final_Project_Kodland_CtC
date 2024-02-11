@@ -61,7 +61,7 @@ habitaciones que no utilizamos, tirar menos comida a la basura, entre otros.
 Y el otro (!WhereDoIThrowThis) pueda reconozer botellas y diferentes cosas para que el usuario
 sepa dónde tiene que tirar las cosas, y también hace algunos comandos de la contaminación.
 
-
+### !check
 ## Water Bottle:
 ![image_2024-02-11_163454620](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/f2f741ce-b368-4c9f-a28c-391186f1a9e7)
 
@@ -76,3 +76,4 @@ sepa dónde tiene que tirar las cosas, y también hace algunos comandos de la co
 ![image_2024-02-11_164907297](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/55ec3db4-50b1-45fe-a6ae-b632338714be)
 
 
+## Ideas
