@@ -104,3 +104,7 @@ In English and Spanish
 
 ![image_2024-02-11_170654092](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/c44156bc-5bdd-465a-9778-96fbf774419d)
 
+# !HowCanIHelp
+
+
+![image_2024-02-11_171557521](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/f9662710-62e4-4f6a-98a6-169e9cd8f255)
