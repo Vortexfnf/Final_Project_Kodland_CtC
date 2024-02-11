@@ -68,12 +68,11 @@ sepa dónde tiene que tirar las cosas, y también hace algunos comandos de la co
 
 
 ## Soda Can:
-![image_2024-02-11_165004705](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/df311e0a-9ede-4884-bf5e-771f0523aa9f)
-
+![image_2024-02-11_164907297](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/55ec3db4-50b1-45fe-a6ae-b632338714be)
 
 
 ## News Papers:
-![image_2024-02-11_164907297](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/55ec3db4-50b1-45fe-a6ae-b632338714be)
+![image_2024-02-11_165004705](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/df311e0a-9ede-4884-bf5e-771f0523aa9f)
 
 
 # !Ideas
