@@ -374,4 +374,4 @@ contamination.description = "This command explains what contamination is and eac
 contamination.brief = "Explains contamination to you"
 
 
-client.run("MTIwNDQ4MDQ5NzU4NjAxNjMyNw.GpjJMp.d8dwzlvfjwxRNBc0gJ-kXEFHIFjzJYGCUUyGHk")
+client.run("Use your own Token ._.")
