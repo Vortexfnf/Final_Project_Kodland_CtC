@@ -1,0 +1,3 @@
+0 WaterBottle
+1 SodaPoo
+2 NewsPaper(s)
