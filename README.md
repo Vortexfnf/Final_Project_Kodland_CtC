@@ -59,4 +59,5 @@ de reconozimiento de imágenes, donde un comando (!HowCanIHelp) te dice que cosa
 hacer para ayudar prevenir el calentamiento global como apagar las luces en las
 habitaciones que no utilizamos, tirar menos comida a la basura, entre otros.
 Y el otro (!WhereDoIThrowThis) pueda reconozer botellas y diferentes cosas para que el usuario
-sepa dónde tiene que tirar las cosas, y también hace algunos comandos de la contaminación
+sepa dónde tiene que tirar las cosas, y también hace algunos comandos de la contaminación![image_2024-02-11_163454620](https://github.com/Vortexfnf/Final_Project_Kodland_CtC/assets/126605643/f2f741ce-b368-4c9f-a28c-391186f1a9e7)
+
