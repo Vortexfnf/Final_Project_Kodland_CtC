@@ -307,7 +307,7 @@ async def check(ctx):
             if label == "WATERBOTTLE":
                 await ctx.send("Looks like you have a Water Bottle and you don't know what to do with it! Then " + str(PlasticBottle))
                 await ctx.send("I hope that helped!")
-            elif label == "SODAPOO":
+            elif label == "SODACAN":
                 await ctx.send("So because of my current limitations, then I can't tell if it's a food can or a soda can, but " + str(Cans))
 
                 await ctx.send("I hope that helped!")
